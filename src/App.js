@@ -9,6 +9,7 @@ import AutoAlarm from './features/AutoAlarm/AutoAlarm';
 import PhoneAlert from './features/PhoneAlert/PhoneAlert';
 import About from './components/About';
 import Privacy from './components/Privacy';
+import './i18n/i18n';
 
 function App() {
   return (

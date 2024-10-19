@@ -1,0 +1,34 @@
+{
+  "PhoneAlert_title": "Automatic Alarm System",
+  "PhoneAlert_alarmActive": "Alarm activated! Long press to deactivate",
+  "PhoneAlert_tapToActivate": "Tap the button {{count}} times to activate the alarm",
+  "PhoneAlert_deactivate": "Deactivate alarm",
+  "PhoneAlert_alarming": "Alarming",
+  "PhoneAlert_trigger": "Trigger alarm",
+  "PhoneAlert_settings": "Alarm settings",
+  "PhoneAlert_volume": "Volume: {{volume}}%",
+  "PhoneAlert_alarmSound": "Alarm sound:",
+  "PhoneAlert_alarmSounds": {
+    "siren": "Siren",
+    "policecar": "Police car",
+    "scream": "Scream",
+    "fireAlarm": "Fire alarm"
+  },
+  "PhoneAlert_instructions": {
+    "activate": "In case of emergency, quickly tap the button 3 times to activate the alarm.",
+    "deactivate": "After the alarm is activated, long press the button for more than 1 second to deactivate the alarm."
+  },
+  "languages": {
+    "chinese": "Chinese",
+    "english": "English",
+    "german": "German"
+  },
+  "footer": {
+    "aiCall": "AI Call",
+    "autoAlarm": "Auto Alarm",
+    "phoneAlert": "Phone Alert",
+    "more": "More",
+    "aboutUs": "About Us",
+    "privacyInfo": "Privacy Info"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "PhoneAlert_title": "自动报警系统",
+  "PhoneAlert_alarmActive": "警报已激活！长按以解除",
+  "PhoneAlert_tapToActivate": "轻触按钮 {{count}} 次以激活警报",
+  "PhoneAlert_deactivate": "解除警报",
+  "PhoneAlert_alarming": "警报中",
+  "PhoneAlert_trigger": "触发警报",
+  "PhoneAlert_settings": "警报设置",
+  "PhoneAlert_volume": "音量: {{volume}}%",
+  "PhoneAlert_alarmSound": "警报音效:",
+  "PhoneAlert_alarmSounds": {
+    "siren": "警笛",
+    "policecar": "警车",
+    "scream": "尖叫声",
+    "fireAlarm": "消防警报"
+  },
+  "PhoneAlert_instructions": {
+    "activate": "紧急情况下，快速点击按钮3次即可激活警报。",
+    "deactivate": "警报激活后，长按按钮1秒以上可解除警报。"
+  },
+    "languages": {
+      "chinese": "中文",
+      "english": "英文",
+      "german": "德文"
+    },
+    "footer": {
+      "aiCall": "AI 通话",
+      "autoAlarm": "自动警报",
+      "phoneAlert": "手机警报",
+      "more": "更多",
+      "aboutUs": "关于我们",
+      "privacyInfo": "隐私信息"
+    }
+}
+
