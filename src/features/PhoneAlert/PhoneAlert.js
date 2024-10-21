@@ -55,9 +55,11 @@ const AutoAlarm = () => {
 
   return (
     <div className="container mx-auto px-4 py-8 flex flex-col items-center bg-gray-100 min-h-screen">
-      <h1 className="text-3xl font-bold mb-4 text-blue-600">
-        {t("PhoneAlert_title")}
-      </h1>
+      <div className="w-full">
+        <h1 className="text-4xl text-left font-bold mb-4 text-blue-600">
+          {t("PhoneAlert_title")}
+        </h1>
+      </div>
       <p className="mb-8 text-xl text-gray-700">
         {isActive
           ? t("PhoneAlert_alarmActive")
@@ -87,7 +89,7 @@ const AutoAlarm = () => {
         <h2 className="text-xl font-semibold mb-4 text-gray-800">
           {t("PhoneAlert_settings")}
         </h2>
-        <div className="mb-4">
+        {/* <div className="mb-4">
           <label className="block text-sm font-medium text-gray-700 mb-2">
             {t("PhoneAlert_volume", { volume })}
           </label>
@@ -99,7 +101,7 @@ const AutoAlarm = () => {
             onChange={(e) => setVolume(e.target.value)}
             className="w-full"
           />
-        </div>
+        </div> */}
         <div className="mb-4">
           <label className="block text-sm font-medium text-gray-700 mb-2">
             {t("PhoneAlert_alarmSound")}

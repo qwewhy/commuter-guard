@@ -1,5 +1,5 @@
 {
-  "PhoneAlert_title": "Automatic Alarm System",
+  "PhoneAlert_title": "Alarm",
   "PhoneAlert_alarmActive": "Alarm activated! Long press to deactivate",
   "PhoneAlert_tapToActivate": "Tap the button {{count}} times to activate the alarm",
   "PhoneAlert_deactivate": "Deactivate alarm",
